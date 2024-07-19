@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivywilsonsv
+- 👋 Hi, I’m Ivy Wilson (@ivywilsonsv)
 - 👀 I’m interested in artificial intelligence, ML, DL, APIs, Python, MERN.
 - 🌱 I’m currently learning how to use APIs for core AI development.
 - 💞️ I’m looking to collaborate on AI & APIs.
